@@ -1,0 +1,6 @@
+{
+  "name": "بينغو الجواهر",
+  "description": "منصة لعبة بينغو التنافسية بالجواهر، مع جولات مباشرة ولوحة تحكم للإدارة وتوزيع شفاف للجوائز بعد خصم عمولة المنصة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
